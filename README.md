@@ -22,7 +22,7 @@ This web application leverages NASA's Mars Rover Photo API to provide users with
 - **NASA Mars Rover API:** Data source for Mars rover images.
 
 ## Usage
-# Search for Images:
+**Search for Images**:
 
 1. Select a rover from the dropdown menu.
 2. Choose a camera.
@@ -30,11 +30,11 @@ This web application leverages NASA's Mars Rover Photo API to provide users with
 4. Provide the corresponding date.
 5. Click "Submit" to view images.
 
-# View Saved Images:
+**View Saved Images**:
 1. Navigate to the "Saved Images" section to view and manage saved photos.
 3. Here, you can see your list of favorite images and perform actions like starting and stopping the carousel.
 
-# Image Carousel
+**Image Carousel**:
 1. Use the "Start Carousel" button to begin the slideshow of your saved images.
 2. Use the "Stop Carousel" button to halt the slideshow.
 
