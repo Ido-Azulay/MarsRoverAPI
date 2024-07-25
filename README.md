@@ -38,5 +38,7 @@ This web application leverages NASA's Mars Rover Photo API to provide users with
 1. Use the "Start Carousel" button to begin the slideshow of your saved images.
 2. Use the "Stop Carousel" button to halt the slideshow.
 
+
+
 Thank you for checking out the NASA Mars Rover Photo Search application. I hope you enjoy exploring Mars rover images!
 
